@@ -1,8 +1,8 @@
 ## 開始方法
 
 ```
-npm install
-npm run start:dev
+pnpm install
+pnpm run start:dev
 ```
 
 ## DB マイグレーション
